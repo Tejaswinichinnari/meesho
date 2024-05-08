@@ -1,0 +1,423 @@
+* { 
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+
+#nav{
+    border: 1px solid rgb(133, 133, 133);
+    height: 85px;
+}
+
+#nav svg{
+    position: absolute;
+    left: 130px;
+    top: 23px;
+    cursor: pointer;
+}
+
+#nav1{
+    position: absolute;
+    border: 1px solid;
+    height: 40px;
+    width: 390px;
+    top: 23px;
+    left: 320px;
+    border-radius: 4px;
+}
+
+#nav1 svg{
+    position: absolute;
+    left: 4px;
+    top: 10px;
+}
+
+#nav1 p{
+    position: absolute;
+    left: 34px;
+    top: 10px;
+    word-spacing: 1px;
+    font-weight: 600px;
+    font-size: 18px;
+    letter-spacing: 0.0025em;
+    caret-color: rgb(159, 32, 137);
+    color: rgb(133, 133, 133);
+    font-family: "Mier book";
+
+}
+
+#nav1 svg+svg{
+    position: absolute;
+    height: 22px;
+    left: 400px;
+}
+
+#nav1 h1{
+    position: absolute;
+    font-size: 18px;
+    left: 425px;
+    font-weight: 500;
+    font-family: "Mier book";
+    cursor: pointer;
+}
+
+#nav1 staright{
+    height: 1000px;
+}
+
+#nav1 h2{
+    position: absolute;
+    font-size: 18px;
+    left: 555px;
+    font-weight: 500;
+    font-family: "Mier book";
+    top: -10px;
+    cursor: pointer;
+
+}
+
+#nav1 h3{
+    position: absolute;
+    font-size: 18px;
+    left: 685px;
+    font-weight: 500;
+    font-family: "Mier book";
+    top: 10px;
+    cursor: pointer;
+
+}
+
+#nav1 svg+svg+svg{
+    position: absolute;
+    left: 845px;
+    height: 25px;
+    top: -2px;
+}
+
+
+#nav1 h4{
+    position: absolute;
+    font-size: 18px;
+    left: 834px;
+    font-weight: 500;
+    font-family: "Mier book";
+    top: 25px;
+    cursor: pointer;
+
+}
+
+#nav2{
+    border: 1px solid rgb(133, 133, 133);
+    height: 60px;
+}
+
+#nav2 p{
+    position: absolute;
+    left: 130px;
+    top: 108px;
+    color: rgb(53, 53, 67);
+    font-style: normal;
+    font-weight: 500;
+    font-size: 17px;
+    line-height: 20px;
+    font-family: "Mier book";
+    margin: 0px;
+    padding :0px;
+}
+
+#demo{
+    /* border: 2px solid ; */
+    height: 500px;
+    width: 800px;
+    margin-left: 230px;
+    margin-top: 55px;
+    background-color: rgb(248, 248, 255);
+}
+
+#demo h1{
+    position: absolute;
+    color: rgb(53, 53, 67);
+    font-style: normal;
+    font-weight: 700;
+    font-size: 43px;
+    line-height: 52px;
+    font-family: "Mier bold";
+    left: 280px;
+    top: 250px;
+}
+
+#demo1{
+    border: 2px solid #fff;
+    height: 60px;
+    width: 310px;
+    margin-top: -260px;
+    margin-left: 280px;
+    background-color: #fff;
+}
+
+#demo1 img{
+    position: absolute;
+    top: 452px;
+    left: 290px;
+}
+
+#demo1 h1{
+    position: absolute;
+    top: 452px;
+    left: 325px;
+    font-size: 15px;
+}
+
+#demo2 img{
+    position: absolute;
+    top: 452px;
+    left: 390px;
+}
+
+#demo2 h1{
+    position: absolute;
+    top: 452px;
+    left: 430px;
+    font-size: 15px;
+}
+
+#demo3 img{
+    position: absolute;
+    top: 452px;
+    left: 500px;
+}
+
+#demo3 h1{
+    position: absolute;
+    top: 452px;
+    left: 535px;
+    font-size: 15px;
+}
+
+#demo4 img{
+    position: absolute;
+    top: 202px;
+    left: 615px;
+    height: 495px;
+    width: 415px;
+}
+
+#demo5{
+    border: 2px solid rgb(159, 32, 137);
+    height: 50px;
+    width: 310px;
+    margin-top: 20px;
+    margin-left: 280px;
+    background-color:  rgb(159, 32, 137);
+    border-radius: 5px;
+}
+
+#demo5 img{
+    position: absolute;
+    top: 530px;
+    left: 305px;
+    cursor: pointer;
+}
+
+#demo5 h1{
+    position: absolute;
+    font-size: 20px;
+    left: 344px;
+    top: 532px;
+    color: #fff;
+    font-family: "Mier demi";
+    font-weight: 500;
+}
+
+#demo5 h2{
+    position: absolute;
+    font-size: 38px;
+    top: 770px;
+    left: 400px;
+    word-spacing: 5px;
+    letter-spacing: 2px;
+    color: rgb(53, 53, 67);
+    font-weight: 700;
+    font-family: -apple-system, "Helvetica Neue", sans-serif, "Mier Book";
+}
+
+#demo5 h3{
+    position: absolute;
+    font-size: 38px;
+    top: 820px;
+    left: 620px;
+    word-spacing: 5px;
+    letter-spacing: 2px;
+    color: rgb(53, 53, 67);
+    font-weight: 700;
+    font-family: -apple-system, "Helvetica Neue", sans-serif, "Mier Book";
+}
+
+#demo6{
+    /* border: 2px solid ; */
+    height: 80px;
+    width: 800px;
+    margin-left: 230px;
+    margin-top: 330px;
+}
+
+#demo6 img{
+    position: absolute;
+    height: 550px;
+    width: 795px;
+}
+
+#demo7 img{
+    position: absolute;
+    top: 970px;
+    left: 260px;
+}
+
+#demo8 img{
+    position: absolute;
+    top: 1112px;
+    left: 680px;
+}
+
+#demo9 img{
+    position: absolute;
+    top: 1112px;
+    left: 990px;
+}
+
+#demo10{
+    /* border: 2px solid ; */
+    height: 550px;
+    width: 800px;
+    margin-left: 230px;
+    margin-top: 530px;
+}
+
+#demo10 img{
+    /* border: 2px solid ; */
+    height: 546px;
+    width: 795px;
+}
+
+#demo10 img+img{
+    position: absolute;
+    height: 60px;
+    width: 200px;
+    left: 260px;
+    top: 300%;
+}
+
+#demo11 img{
+    position: absolute;
+    top: 272%;
+    left: 500px;
+}
+
+#demo11 img+img{
+    position: absolute;
+    top: 330%;
+    left: 510px;
+    width: 180px;
+}
+
+#demo11 img+img+img{
+    position: absolute;
+    top: 272%;
+    left: 720px;
+    height: 335px;
+}
+
+#demo11 img+img+img+img{
+    position: absolute;
+    top: 329%;
+    left: 730px;
+    width: 158px;
+    height: 78px;
+}
+
+#demo11 img+img+img+img+img{
+    position: absolute;
+    top: 272%;
+    left: 920px;
+    height: 335px;
+    width: 200px;
+}
+
+#demo11 img+img+img+img+img+img{
+    position: absolute;
+    top: 329%;
+    left: 920px;
+    width: 190px;
+    height: 78px;
+}
+
+#demo12{
+     border: 2px solid ;
+     height: 550px;
+     width: 800px;
+     margin-left: 230px;
+     margin-top: 50px;
+}
+
+#demo12 img{
+    height: 550px;
+    width: 800px;
+    left: 260px;
+    top: 300%;
+}
+
+#demo12 img+img{
+    position: absolute;
+    height: 60px;
+    width: 200px;
+    left: 262px;
+    top: 405%;
+}
+
+#demo12 img+img+img{
+    position: absolute;
+    height: 335px;
+    width: 200px;
+    left: 500px;
+    top: 375%;
+}
+
+#demo12 img+img+img+img{
+    position: absolute;
+    height: 70px;
+    width: 178px;
+    left: 510px;
+    top: 432%;
+}
+
+#demo12 img+img+img+img+img{
+    position: absolute;
+    height: 335px;
+    width: 200px;
+    left: 720px;
+    top: 375%;
+}
+
+#demo12 img+img+img+img+img+img{
+    position: absolute;
+    height: 70px;
+    width: 180px;
+    left: 730px;
+    top: 432%;
+}
+
+#demo12 img+img+img+img+img+img+img{
+    position: absolute;
+    height: 335px;
+    width: 200px;
+    left: 940px;
+    top: 375%;
+}
+
+#demo12 img+img+img+img+img+img+img+img{
+    position: absolute;
+    height: 70px;
+    width: 180px;
+    left: 944px;
+    top: 432%;
+}
